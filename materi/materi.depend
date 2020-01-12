@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1528184575 source:d:\materi\fungsi.c
+	"header.h"
+
+1528183558 d:\materi\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1528184162 source:d:\materi\main.c
+	"header.h"
+
